@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "type": "module",
   "dependencies": {
     "ejs": "^3.1.10",
@@ -6,5 +7,20 @@
     
     "node": "^20.19.4",
     "main": "index.js"
+=======
+  "name": "daw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+>>>>>>> 9ff6d33 (commiut)
   }
 }
